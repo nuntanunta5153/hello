@@ -5,3 +5,6 @@
 <p>よろしくお願いいたします。</p>
 <p>よろしく</p>
 <p>お願いします。</p>
+
+
+users = ["satou". "taira","yamada","hayashi"]
